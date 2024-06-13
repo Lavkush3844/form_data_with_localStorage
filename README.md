@@ -10,6 +10,7 @@ This was created using html, css, and jQuery.
 - Delete 
 - Add
 - Search
+- Responsive
 
 <h3>Screenshot :</h3>
 <br/>
